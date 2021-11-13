@@ -13,6 +13,6 @@ $ chmod +x covid19_contacttracer.py
 $ python3 covid19_contacttracer.py <attacker-ip> <attacker-port> <target-ip>
 ```
 ## Créditos
-* **Exploit v1**: https://www.exploit-db.com/exploits/49604
+**Exploit v1**: https://www.exploit-db.com/exploits/49604
 
 **Nota:** si tienes propuestas para mejorar este script o cambiar cosas, hazmelas saber por favor... me ayudarías mucho ❤.
